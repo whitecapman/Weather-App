@@ -113,7 +113,7 @@ def get_weather(location: str="Уфа, Башкортостан", lang: str="ru"
 def get_weather_image(location: str, lang: str) -> bytes:      
     """Отдельная функция для загрузки PNG-картинки с погодой"""
     encoded_location = location.replace(" ", "+")
-    url = f"https://wttr.in/{encoded_location}.png?lang={lang}"
+    url = f"https://wttr.in/{encoded_location}.png?m&lang={lang}"
     headers = {
     "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36",
     "Accept": "application/json"
