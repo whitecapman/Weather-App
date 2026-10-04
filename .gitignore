@@ -1,0 +1,32 @@
+# Python (кэш и скомпилированные файлы)
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+build/
+develop-eggs/
+dist/
+downloads/
+eggs/
+.eggs/
+*.egg-info/
+
+# Виртуальное окружение
+.venv/
+venv/
+env/
+ENV/
+
+# Streamlit (конфиденциальные ключи)
+.streamlit/secrets.toml
+
+# Файлы операционной системы и редакторов
+.DS_Store
+Thumbs.db
+.idea/
+.vscode/*
+!.vscode/settings.json
+
+# Переменные окружения
+.env
