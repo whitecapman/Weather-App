@@ -6,6 +6,8 @@
 [![Streamlit](https://img.shields.io/badge/Streamlit-1.28+-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white)](https://streamlit.io/)
 [![API](https://img.shields.io/badge/API-wttr.in-blue?style=for-the-badge)](https://github.com/chubin/wttr.in)
 
+👉 **Онлайн-версия приложения:** [weather-app-102.streamlit.app](https://weather-app-102.streamlit.app/)
+
 ---
 
 ## 📸 Скриншоты интерфейса
